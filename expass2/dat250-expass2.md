@@ -8,5 +8,4 @@ There was a lot of small problems during the installation, because it was hard t
 
 
 ## How I inspected database
-
-
+When I ran main.java the tables were printed in the terminal:
