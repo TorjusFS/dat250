@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Nov 06 16:43:35 CET 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0175-9e3a-31b2-000000f1f2e0 
+on database directory /home/torjus/Dokumenter/dat250/dat250-jpa-examples/eclipselink/jpa-basic/~/dat250/persistence/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/home/torjus/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=N/A
+java.runtime.version=14.0.2+12
+user.dir=/home/torjus/Dokumenter/dat250/dat250-jpa-examples/eclipselink/jpa-basic
+os.name=Linux
+os.arch=amd64
+os.version=5.8.16-2-MANJARO
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
