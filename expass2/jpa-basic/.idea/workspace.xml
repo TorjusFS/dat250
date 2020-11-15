@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16339245-0532-47f2-bf28-c3d56c788498" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../expass4/Assignment-4-DAT250-REST-API" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -107,12 +107,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="674" y="324" width="566" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604676768107">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
     <state x="674" y="324" width="566" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1043@0.0.1920.1043" timestamp="1604676768107" />
+    <state x="743" y="280" width="428" height="484" key="FileChooserDialogImpl" timestamp="1605449879431">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="743" y="280" width="428" height="484" key="FileChooserDialogImpl/0.0.1920.1043@0.0.1920.1043" timestamp="1605449879431" />
     <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1604677303353">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
